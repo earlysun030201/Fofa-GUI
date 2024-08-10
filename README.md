@@ -1,5 +1,5 @@
 # Fofa-GUI
-来自Kanade-Project的第一个组件，通过Tauri构建的Fofa第三方图形化工具。
+来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。
 
 ## 此仓库仅分发二进制程序，不发布源码。
 
