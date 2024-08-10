@@ -5,13 +5,14 @@
 ## 如何使用？
 
 #### 在设置中填入FOFA API Key即可使用
+API Key、查询页数、每页数量、查询字段是自动记录在当前系统中的。
 <img width="1476" alt="image" src="https://github.com/user-attachments/assets/fdabb03b-f80f-43f6-a3f3-ffe45af8aeb2">
+<img width="1476" alt="image" src="https://github.com/user-attachments/assets/4a5bd02a-9868-4400-a9d5-06899c122b64">
 
 #### 查询字段
 
 即返回结果中显示的字段内容。
-
-
+所有API支持字段均开放选择。
 
 #### 语法
 
