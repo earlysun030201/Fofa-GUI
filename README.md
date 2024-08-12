@@ -5,14 +5,24 @@
 ## 如何使用？
 
 #### 在设置中填入FOFA API Key即可使用
-API Key、查询页数、每页数量、查询字段是自动记录在当前系统中的。
-<img width="1476" alt="image" src="https://github.com/user-attachments/assets/fdabb03b-f80f-43f6-a3f3-ffe45af8aeb2">
-<img width="1476" alt="image" src="https://github.com/user-attachments/assets/4a5bd02a-9868-4400-a9d5-06899c122b64">
+所有的设置项是自动保存在系统中的。
+<img width="1476" alt="image" src="https://github.com/user-attachments/assets/f9515991-e3f9-4eb1-b05e-be9c4e4b08ec">
+
+<img width="1476" alt="image" src="https://github.com/user-attachments/assets/ce8f8bdd-715e-4d7d-8107-5c67ad7cbc70">
+
 
 #### 查询字段
 
 即返回结果中显示的字段内容。
 所有API支持字段均开放选择。
+
+#### 结果去重
+
+根据ip-port进行结果重复项筛选并去除。
+
+#### 静默存活检测
+
+多线程扫描器，在结果返回并处理后进行ip-port扫描，目前仅支持ipv4地址扫描。
 
 #### 语法
 
@@ -32,4 +42,5 @@ API Key、查询页数、每页数量、查询字段是自动记录在当前系�
 
 | 版本  | MacOS | Windows | Linux |
 | ----- | ----- | ------- | ----- |
-| 0.0.1 | ✅     | ✅       | ❌     |
+| 0.0.1 |✅|✅|❌|
+| 0.0.2(pre-release)|✅|✅|✅|
