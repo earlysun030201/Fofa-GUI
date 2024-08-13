@@ -4,6 +4,11 @@
 ## 此仓库仅分发二进制程序，不发布源码。
 ## 如何使用？
 
+#### 应用已损坏(MacOS)
+
+应用没有签名导致，终端运行以下命令再次打开即可。
+`xattr -cr /Applications/Kanade-FOFA.app`
+
 #### 在设置中填入FOFA API Key即可使用
 所有的设置项是自动保存在系统中的。
 <img width="1476" alt="image" src="https://github.com/user-attachments/assets/f9515991-e3f9-4eb1-b05e-be9c4e4b08ec">
@@ -44,3 +49,4 @@
 | ----- | ----- | ------- | ----- |
 | 0.0.1 |✅|✅|❌|
 | 0.0.2(pre-release)|✅|✅|✅|
+| 0.0.3|✅|✅|✅|
