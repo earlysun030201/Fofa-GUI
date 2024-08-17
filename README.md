@@ -56,4 +56,4 @@
 将在3个版本内更新POC管理器，届时上线POC仓库，POC仓库将在更新时被编译。
 
 ## Star Chart
-[![Stargazers over time](https://starchart.cc/shadow1ng/fscan.svg?variant=adaptive)]([https://starchart.cc/shadow1ng/fscan](https://star-history.com/#earlysun030201/fofa-gui))
+[![Stargazers over time](https://starchart.cc/earlysun030201/Fofa-GUI.svg?variant=adaptive)](https://starchart.cc/earlysun030201/Fofa-GUI)
