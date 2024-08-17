@@ -50,3 +50,10 @@
 | 0.0.1 |✅|✅|❌|
 | 0.0.2(pre-release)|✅|✅|✅|
 | 0.0.3|✅|✅|✅|
+
+## 贡献POC
+
+将在3个版本内更新POC管理器，届时上线POC仓库，POC仓库将在更新时被编译。
+
+## Star Chart
+[![Stargazers over time](https://starchart.cc/shadow1ng/fscan.svg?variant=adaptive)]([https://starchart.cc/shadow1ng/fscan](https://star-history.com/#earlysun030201/fofa-gui))
