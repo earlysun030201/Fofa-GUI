@@ -35,7 +35,7 @@
 
 #### 语法
 
-语法请参考fofa.info，计划在未来更新语法提示及错误检测。
+语法请参考fofa.info。
 
 
 
@@ -58,7 +58,7 @@
 
 ## 贡献POC
 
-将在3个版本内更新POC管理器，届时上线POC仓库，POC仓库将在更新时被编译。
+将在3个版本内更新POC管理器，届时上线POC仓库。
 
 ## Star Chart
 [![Stargazers over time](https://starchart.cc/earlysun030201/Fofa-GUI.svg?variant=adaptive)](https://starchart.cc/earlysun030201/Fofa-GUI)
