@@ -11,9 +11,13 @@
 
 #### 在设置中填入FOFA API Key即可使用
 所有的设置项是自动保存在系统中的。
-<img width="1476" alt="image" src="https://github.com/user-attachments/assets/f9515991-e3f9-4eb1-b05e-be9c4e4b08ec">
+<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.19.05.png">
 
-<img width="1476" alt="image" src="https://github.com/user-attachments/assets/ce8f8bdd-715e-4d7d-8107-5c67ad7cbc70">
+<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.19.32.png">
+
+<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.20.54.png">
+
+<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.21.28.png">
 
 
 #### 查询字段
@@ -50,6 +54,7 @@
 | 0.0.1 |✅|✅|❌|
 | 0.0.2(pre-release)|✅|✅|✅|
 | 0.0.3|✅|✅|✅|
+| 0.0.4|✅|✅|✅|
 
 ## 贡献POC
 
