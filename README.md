@@ -1,3 +1,14 @@
+# Pre-Release
+|已完成✅|正在做的▶️|计划📌|
+|-----|-----|-----|
+|HTTP Lua API|Menu Lua API|Database Lua API|
+|Socket Lua API|WebSocket Lua API|Lua市场|
+|JSON Lua API|Event Lua API|Scan Lua API|
+|YAML Lua API|Poc管理器|Proxy Lua API|
+|LuaJit支持||
+
+<img width="1198" alt="image" src="https://github.com/user-attachments/assets/27a0239f-436d-431a-87f0-777f730db915">
+
 # Fofa-GUI
 来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。
 
