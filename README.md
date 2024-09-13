@@ -7,7 +7,8 @@
 |YAML Lua API|Poc管理器|Proxy Lua API|
 |LuaJit支持||
 
-<img width="1198" alt="image" src="https://github.com/user-attachments/assets/27a0239f-436d-431a-87f0-777f730db915">
+## Lua API
+https://earlysun.gitbook.io/kanade-lua-api
 
 # Fofa-GUI
 来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。
