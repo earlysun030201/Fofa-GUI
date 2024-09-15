@@ -1,12 +1,13 @@
 # Pre-Release
 |已完成✅|正在做的▶️|计划📌|
 |-----|-----|-----|
-|HTTP Lua API|Menu Lua API|Database Lua API|
-|Socket Lua API|Event Lua API|Lua市场|
-|JSON Lua API|Poc管理器|Scan Lua API|
-|YAML Lua API|Proxy Lua API||
-|LuaJit支持||
+|HTTP Lua API|Menu Lua API|Lua市场|
+|Socket Lua API|Proxy Lua API||
+|JSON Lua API|Poc管理器||
+|YAML Lua API|Database Lua API||
+|Lua5.4支持|Scan Lua API|
 |WebSocket Lua API||
+|Event Lua API||
 
 ## Lua API
 https://earlysun.gitbook.io/kanade-lua-api
