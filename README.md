@@ -5,7 +5,7 @@
 |Socket Lua API|Proxy Lua API||
 |JSON Lua API|Poc管理器||
 |YAML Lua API|Database Lua API||
-|LuaJit 2.1.0|Scan Lua API|
+|LuaJIT 2.1.0|Scan Lua API|
 |WebSocket Lua API||
 |Event Lua API||
 
