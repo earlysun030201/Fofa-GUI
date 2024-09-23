@@ -5,17 +5,20 @@
 |Socket Lua API|Proxy Lua API||
 |JSON Lua API|Poc管理器||
 |YAML Lua API|Database Lua API||
-|LuaJIT 2.1.0||
+|LuaJIT 2.1.0|Lua配置管理器|
 |WebSocket Lua API||
 |Event Lua API||
 |Menu Lua API||
 |Crypto Lua API||
 
+# Fofa-GUI
+来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本。
+
+#### 脚本路径
+`~/.kanade/scripts/`
+
 ## Lua API
 https://earlysun.gitbook.io/kanade-lua-api
-
-# Fofa-GUI
-来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。
 
 ## 此仓库仅分发二进制程序，不发布源码。
 ## 如何使用？
@@ -33,7 +36,9 @@ https://earlysun.gitbook.io/kanade-lua-api
 
 <img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.20.54.png">
 
-<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.21.28.png">
+<img width="1476" alt="image" src="https://github.com/user-attachments/assets/29209edc-67ab-4c82-adc6-d07da584e4ec">
+
+<img width="1962" alt="image" src="https://github.com/user-attachments/assets/bdef076c-eead-4faf-848b-de9c03b7c4b0">
 
 
 #### 查询字段
@@ -64,17 +69,20 @@ https://earlysun.gitbook.io/kanade-lua-api
 计划做一个一体化的渗透测试工具，Fofa-GUI只是第一个组件，将来会在一体化工具内添加联动（存活检测、POC验证等）功能。
 
 ## 构建状态
-
+✅:通过
+❌:未通过
+⏸️:已通过但未经验证/Github Actions等待
 | 版本  | MacOS | Windows | Linux |
 | ----- | ----- | ------- | ----- |
 | 0.0.1 |✅|✅|❌|
 | 0.0.2(pre-release)|✅|✅|✅|
 | 0.0.3|✅|✅|✅|
 | 0.0.4|✅|✅|✅|
+| 0.0.5|✅|⏸️|⏸️|
 
 ## 贡献POC
 
-将在3个版本内更新POC管理器，届时上线POC仓库。
+将在2个版本内更新POC管理器，届时上线POC仓库。
 
 ## Star Chart
 [![Stargazers over time](https://starchart.cc/earlysun030201/Fofa-GUI.svg?variant=adaptive)](https://starchart.cc/earlysun030201/Fofa-GUI)
