@@ -9,6 +9,7 @@
 |WebSocket Lua API||
 |Event Lua API||
 |Menu Lua API||
+|Crypto Lua API||
 
 ## Lua API
 https://earlysun.gitbook.io/kanade-lua-api
