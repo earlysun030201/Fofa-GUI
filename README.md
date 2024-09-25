@@ -14,12 +14,12 @@
 # Fofa-GUI
 来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本并逐步重构为Kanade。
 
-#### 脚本路径
-`~/.kanade/scripts/`
-
 ## Lua API
 https://earlysun.gitbook.io/kanade-lua-api
 
+#### 脚本路径
+`~/.kanade/scripts/`
+#### 优势
 * 事件驱动实现的异步任务/多脚本和POC联动
 * 跨平台
 * Rust函数绑定
