@@ -36,13 +36,7 @@ https://earlysun.gitbook.io/kanade-lua-api
 
 #### 在设置中填入FOFA API Key即可使用
 所有的设置项是自动保存在系统中的。
-<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.19.05.png">
-
-<img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.19.32.png">
-
 <img width="1476" alt="image" src="https://github.com/earlysun030201/Fofa-GUI/blob/main/images/iShot_2024-09-02_18.20.54.png">
-
-<img width="1476" alt="image" src="https://github.com/user-attachments/assets/29209edc-67ab-4c82-adc6-d07da584e4ec">
 
 <img width="1962" alt="image" src="https://github.com/user-attachments/assets/bdef076c-eead-4faf-848b-de9c03b7c4b0">
 
