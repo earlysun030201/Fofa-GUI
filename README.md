@@ -2,7 +2,7 @@
 |已完成✅|正在做的▶️|计划📌|
 |-----|-----|-----|
 |HTTP Lua API|Scan Lua API|Lua市场|
-|Socket Lua API|Proxy Lua API||
+|Socket Lua API|Proxy Lua API|TeamServer|
 |JSON Lua API|Poc管理器||
 |YAML Lua API|Database Lua API||
 |LuaJIT 2.1.0|Lua配置管理器|
@@ -12,13 +12,19 @@
 |Crypto Lua API||
 
 # Fofa-GUI
-来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本。
+来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本并逐步重构为Kanade。
 
 #### 脚本路径
 `~/.kanade/scripts/`
 
 ## Lua API
 https://earlysun.gitbook.io/kanade-lua-api
+
+* 事件驱动实现的异步任务/多脚本和POC联动
+* 跨平台
+* Rust函数绑定
+* LuaJIT/FFI提供的高效运行和C语言执行
+* 简单、易用、全面的图形化接口组件
 
 ## 此仓库仅分发二进制程序，不发布源码。
 ## 如何使用？
@@ -57,7 +63,6 @@ https://earlysun.gitbook.io/kanade-lua-api
 #### 语法
 
 语法请参考fofa.info。
-
 
 
 #### 导出数据
