@@ -20,7 +20,8 @@ https://earlysun.gitbook.io/kanade-lua-api
 #### 脚本路径
 `~/.kanade/scripts/`
 #### 优势
-* 事件驱动实现的异步任务/多脚本和POC联动
+* 事件驱动|异步任务
+* POC|Lua联动
 * 跨平台
 * Rust函数绑定
 * LuaJIT/FFI提供的高效运行和C语言执行
