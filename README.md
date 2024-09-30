@@ -1,10 +1,11 @@
 # Pre-Release
 |已完成✅|正在做的▶️|计划📌|
 |-----|-----|-----|
-|Database Lua API|Scan Lua API|Lua市场|
-||Proxy Lua API|TeamServer|
+|Database Lua API|更多Menu Lua API|Lua市场|
+|Scan Lua API|Proxy Lua API|TeamServer|
 ||Poc管理器||
 ||Lua配置管理器|
+|||
 
 # Fofa-GUI
 来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本并逐步重构为Kanade。
