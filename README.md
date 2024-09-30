@@ -5,7 +5,6 @@
 |Scan Lua API|Proxy Lua API|TeamServer|
 ||Poc管理器||
 ||Lua配置管理器|
-|||
 
 # Fofa-GUI
 来自Kanade-Project的第一个组件，通过Tauri构建的跨平台Fofa图形化工具。自v0.0.5版本开始支持附加Lua脚本并逐步重构为Kanade。
