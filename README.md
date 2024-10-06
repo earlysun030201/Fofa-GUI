@@ -3,7 +3,7 @@
 |-----|-----|-----|
 |Database Lua API|更多Menu Lua API|Lua市场|
 |Scan Lua API|Proxy Lua API|TeamServer|
-||Poc管理器||
+|迁移到Tauri 2.0 Stable|Poc管理器||
 ||Lua配置管理器|
 
 # Fofa-GUI
